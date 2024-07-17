@@ -1,0 +1,94 @@
+{
+  "emails": [
+    {
+      "subject": "Meeting Reminder",
+      "sender": {
+        "name": "John Doe",
+        "icon": "https://greakproject.vercel.app/images/avatars/5.png",
+        "email": "johndoe@example.com"
+      },
+      "recipient": "janedoe@example.com",
+      "content": "Don't forget the meeting at 3 PM today.",
+      "date": "2024-07-01T10:20:30.000Z",
+      "folder": "sent",
+      "labels": ["private", "important"],
+      "isStarred": true,
+      "isRead": false
+    },
+    {
+      "subject": "Vacation Plans",
+      "sender": {
+        "name": "Alice Smith",
+        "icon": "https://greakproject.vercel.app/images/avatars/3.png",
+        "email": "alice.smith@example.com"
+      },
+      "recipient": "you@example.com",
+      "content": "Here are the vacation plans for next week.",
+      "date": "2024-07-03T14:45:50.000Z",
+      "folder": "inbox",
+      "labels": [],
+      "isStarred": true,
+      "isRead": false
+    },
+    {
+      "subject": "Project Update",
+      "sender": {
+        "name": "Jane Brown",
+        "icon": "https://greakproject.vercel.app/images/avatars/7.png",
+        "email": "jane.brown@example.com"
+      },
+      "recipient": "you@example.com",
+      "content": "Attached is the latest project update.",
+      "date": "2024-07-05T09:15:45.000Z",
+      "folder": "draft",
+      "labels": ["important"],
+      "isStarred": false,
+      "isRead": true
+    },
+    {
+      "subject": "Invitation to Dinner",
+      "sender": {
+        "name": "Michael Johnson",
+        "icon": "https://greakproject.vercel.app/images/avatars/2.png",
+        "email": "michael.johnson@example.com"
+      },
+      "recipient": "you@example.com",
+      "content": "You're invited to dinner tonight at 7 PM.",
+      "date": "2024-07-07T18:10:25.000Z",
+      "folder": "inbox",
+      "labels": ["personal", "private"],
+      "isStarred": true,
+      "isRead": false
+    },
+    {
+      "subject": "Monthly Report",
+      "sender": {
+        "name": "Emma White",
+        "icon": "https://greakproject.vercel.app/images/avatars/6.png",
+        "email": "emma.white@example.com"
+      },
+      "recipient": "you@example.com",
+      "content": "Please find attached the monthly report.",
+      "date": "2024-07-08T12:30:10.000Z",
+      "folder": "spam",
+      "labels": ["company", "important"],
+      "isStarred": false,
+      "isRead": true
+    },
+    {
+      "subject": "New Product Launch",
+      "sender": {
+        "name": "Mark Green",
+        "icon": "https://greakproject.vercel.app/images/avatars/4.png",
+        "email": "mark.green@example.com"
+      },
+      "recipient": "you@example.com",
+      "content": "Introducing our new product lineup!",
+      "date": "2024-07-09T16:50:05.000Z",
+      "folder": "trash",
+      "labels": ["company"],
+      "isStarred": false,
+      "isRead": true
+    }
+  ]
+}
